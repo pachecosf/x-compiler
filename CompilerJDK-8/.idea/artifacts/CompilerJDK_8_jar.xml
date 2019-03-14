@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompilerJDK-8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompilerJDK_8_jar</output-path>
+    <root id="archive" name="CompilerJDK-8.jar">
+      <element id="module-output" name="CompilerJDK-8" />
+    </root>
+  </artifact>
+</component>
